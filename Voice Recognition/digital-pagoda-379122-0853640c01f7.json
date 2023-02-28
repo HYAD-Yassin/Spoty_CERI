@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "digital-pagoda-379122",
+  "private_key_id": "0853640c01f7ec027097ae3ec533a8aa3dbad079",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCEpQdV1YV6QfCp\n1DC+MXXG1yNzdVbDK+w46uMxzmzkYnpamK4DoUn5krkGqx3p/7aLc93ZpnTnC56s\n4/Jq/XoWWe6BG6bljfFNTGJWxjlKn7nsUM4cnR4PofsCRYiQVMF86wbH6dSWmOnY\niYP8rMBW5X2IXN2uk2WFIig9h+2+xA8veb8i2klPRulzSj46WKa18n4zAz9e2vb2\nDbxzoGCHWcQLeol701ArtFW4gTaCDNrPj9DjCDFku3gV2ZPMYtSMsIPu7HTxnCyi\nmqcF6E8+nojre8JcCCX+35QhXwtwUwFR6oezOqsPopn+Eal5dsrm40bZ7ZFWdEa3\njuJRQxNRAgMBAAECggEAAqRj5UPTE55sxMcQr5UsrTRwFlybMbYZG1JRLXQBtAtc\n8lWJGIy7qwNU+Nx229PnkpzctUTenmSPnFQ+gVB7wFToTmBJhFgyQ87K3DeWGBAN\ne1QYc6qYh33HQLmJE9PTR9YPdnMZxdihDGBmIqAXHHEYN6c2FX5jRK8lvrvXNW9t\n86GAqZzFkkGuqts1PK55n2r1t4YMf7DJtaGoYvixBKUSU6pz6B6MQKIncj6frW+B\n5N+KbEDicGw16nNro50xjwUMZfu6tRW8x2+MhsPjsr15P9Y7oXDQIG+aq8T9CgI+\n3bYieZ3CNC7xY4WocERlmKHrWfdUnub2Qjt0sLlMLQKBgQC5HSUz4Ul1v9QxExN1\n17t/NYGw5Gw7B1UVap0DAKLjXI4pqXehiExQlFT5nTUyVlsfOn4Kn/00iBln3xsE\nhzFhNcTeAkU6r3hjQDf0rfWJaWerBlT2JfkePqRewXkx7+G8vIgKD1jSJtmeg7J7\nXYPRrmSReqFrPbgnb+/1N4kNJQKBgQC3cElIIolKFy6v6Ljezqk8OHe/BFbcI2Rt\n5kDiixB+xcaBZmHZwDXnSbT/NYDPaV9roY15xLEd3Ob9Yy47YnaXnfOQ+IPGj/of\nm/d/bJrQZ+23u3A8alBGZ/9N+Yga4pFWa2jT29eBxTr3gmKTOEKsAOjttAXsFaJs\nX3IImr4zvQKBgEWhnPji6YsNWXgMQOm2+KRlMB+mDMA3hd3EeMNEXgFAM4mgYYu1\nhV9aLIyogfYpXaVljzvX6pr0Bvp3heYyJHT4kNEh8YCduJ887M9xEEdcCs7eVt8w\ncYDa92FdTYVnQnaIRHPkSfji/EEQMPcOuiMJgnLmuglo8fiDtrN67GaxAoGAYg1U\nLom/ZuojW4YDI53F2lm4sFMKdts4OIJmVnHNHGZtKAfo7/MNHRdJ90zLEJMbnTWa\noOchYXwNwI2+TaHhEEQuyGP+VCnroe/FiMgtrI6RA6/eW3zccfXvAugJ94z58P6y\n5uPROx2I2npIZLci9Dv8Rer/a2VZD6KpGq5UUuUCgYB9u/hTDeX1NKtRL+ow10s+\nTgS3wjTc+yW13S8KFNRqvbPjmlG5xGjSbG0nnKrwMVb31PkyS3CvgP7XK7LGYquE\n7+sh47vlEIFCib3hBLqzUPxbnP4QcTBW64FyWHyXZ1x+ZImv2k5wDsUZ0oUOdvjj\n4n8Q2XeZkqfnIGjMsG1q/w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "audio-to-text@digital-pagoda-379122.iam.gserviceaccount.com",
+  "client_id": "114515410470892049976",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/audio-to-text%40digital-pagoda-379122.iam.gserviceaccount.com"
+}
